@@ -1,0 +1,14 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculatorApplication.FrmCalculator"
+             BackgroundColor="#222021">
+
+    <StackLayout Padding="20" WidthRequest="300" HeightRequest="400"
+                 HorizontalOptions="Center" VerticalOptions="Start">
+        <Image Source="coloredxenhusk.png" WidthRequest="100" HeightRequest="100" Margin="0,30,0,30" HorizontalOptions="Center"/>
+        <Entry x:Name="txtBoxInput1" Placeholder="Enter Operand 1" FontSize="12" Margin="0,0,0,5" HorizontalTextAlignment="Center"/>
+        <Picker x:Name="cbOperator" FontFamily="Consolas" FontSize="12" Margin="0,5,0,5" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center"/>
+        <Entry x:Name="txtBoxInput2" Placeholder="Enter Operand 2" FontSize="12" Margin="0,5,0,0" HorizontalTextAlignment="Center"/>
+        <Label x:Name="lblDisplayTotal" Margin="0,10,0,0" FontAutoScalingEnabled="True" HorizontalTextAlignment="Center"/>
+    </StackLayout>
+</ContentPage>

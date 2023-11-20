@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A9F7ED29-2462-4304-B77D-7325B2638848}|Default">
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.540CD5C8-D365-4F27-A552-E966FFD9B507" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorClass.cs">
+    <Files>
+      <File FileName="MauiProgram.cs" Line="19" Column="24" />
+      <File FileName="Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
+      <File FileName="CalculatorClass.cs" Line="1" Column="1" />
+      <File FileName="FrmCalculator.xaml" Line="5" Column="1" />
+      <File FileName="FrmCalculator.xaml.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorApplication" expanded="True">
+            <Node name="CalculatorApplication" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="MacCatalyst" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CalculatorApplication PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.540CD5C8-D365-4F27-A552-E966FFD9B507" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
