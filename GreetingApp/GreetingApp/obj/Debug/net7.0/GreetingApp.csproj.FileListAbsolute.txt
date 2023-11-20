@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/GreetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/GreetingApp.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/GreetingApp.AssemblyInfo.cs
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/GreetingApp.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/bin/Debug/net7.0/GreetingApp
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/bin/Debug/net7.0/GreetingApp.deps.json
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/bin/Debug/net7.0/GreetingApp.runtimeconfig.json
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/bin/Debug/net7.0/GreetingApp.dll
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/bin/Debug/net7.0/GreetingApp.pdb
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/GreetingApp.dll
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/refint/GreetingApp.dll
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/GreetingApp.pdb
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/GreetingApp.genruntimeconfig.cache
+/Users/xenuhusk/Projects/GreetingApp/GreetingApp/obj/Debug/net7.0/ref/GreetingApp.dll

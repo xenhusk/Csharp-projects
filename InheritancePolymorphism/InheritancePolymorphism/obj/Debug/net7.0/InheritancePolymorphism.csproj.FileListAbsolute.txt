@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/bin/Debug/net7.0/InheritancePolymorphism
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/bin/Debug/net7.0/InheritancePolymorphism.deps.json
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/bin/Debug/net7.0/InheritancePolymorphism.runtimeconfig.json
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/bin/Debug/net7.0/InheritancePolymorphism.dll
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/bin/Debug/net7.0/InheritancePolymorphism.pdb
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/InheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/InheritancePolymorphism.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/InheritancePolymorphism.AssemblyInfo.cs
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/InheritancePolymorphism.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/InheritancePolymorphism.dll
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/refint/InheritancePolymorphism.dll
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/InheritancePolymorphism.pdb
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/InheritancePolymorphism.genruntimeconfig.cache
+/Users/xenuhusk/Projects/InheritancePolymorphism/InheritancePolymorphism/obj/Debug/net7.0/ref/InheritancePolymorphism.dll

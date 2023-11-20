@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/bin/Debug/net7.0/StudentInfoApplication
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/bin/Debug/net7.0/StudentInfoApplication.deps.json
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/bin/Debug/net7.0/StudentInfoApplication.runtimeconfig.json
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/bin/Debug/net7.0/StudentInfoApplication.dll
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/bin/Debug/net7.0/StudentInfoApplication.pdb
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/StudentInfoApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/StudentInfoApplication.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/StudentInfoApplication.AssemblyInfo.cs
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/StudentInfoApplication.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/StudentInfoApplication.dll
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/refint/StudentInfoApplication.dll
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/StudentInfoApplication.pdb
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/StudentInfoApplication.genruntimeconfig.cache
+/Users/xenuhusk/Projects/StudentInfoApplication/StudentInfoApplication/obj/Debug/net7.0/ref/StudentInfoApplication.dll

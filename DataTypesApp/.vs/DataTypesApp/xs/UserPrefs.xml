@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9A4C3AEB-B0D2-4F13-989C-E2BE6FB09E5E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DataTypesApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../GreetingApp/Desuyo_David Paul/GreetingApp/GreetinsProgram.cs">
+    <Files>
+      <File FileName="../Calculator/Calculator/Program.cs" Line="23" Column="1" />
+      <File FileName="../ComputeAverageApp/ComputeAverageApp/ComputeAverageProgram.cs" Line="14" Column="39" />
+      <File FileName="DataTypesApp/DataTypesProgram.cs" Line="12" Column="77" />
+      <File FileName="../GreetingApp/Desuyo_David Paul/GreetingApp/GreetinsProgram.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataTypesApp" expanded="True">
+            <Node name="DataTypesApp" expanded="True">
+              <Node name="DataTypesProgram.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

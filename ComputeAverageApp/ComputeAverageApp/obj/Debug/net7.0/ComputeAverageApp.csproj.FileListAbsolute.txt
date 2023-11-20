@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.deps.json
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.runtimeconfig.json
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.dll
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.pdb
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.AssemblyInfo.cs
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.dll
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/refint/ComputeAverageApp.dll
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.pdb
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.genruntimeconfig.cache
+/Users/xenuhusk/Projects/ComputeAverageApp/ComputeAverageApp/obj/Debug/net7.0/ref/ComputeAverageApp.dll

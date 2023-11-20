@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/InheritancePoly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/InheritancePoly.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/InheritancePoly.AssemblyInfo.cs
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/InheritancePoly.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/bin/Debug/net7.0/InheritancePoly
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/bin/Debug/net7.0/InheritancePoly.deps.json
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/bin/Debug/net7.0/InheritancePoly.runtimeconfig.json
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/bin/Debug/net7.0/InheritancePoly.dll
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/bin/Debug/net7.0/InheritancePoly.pdb
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/InheritancePoly.dll
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/refint/InheritancePoly.dll
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/InheritancePoly.pdb
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/InheritancePoly.genruntimeconfig.cache
+/Users/xenuhusk/Projects/InheritancePoly/InheritancePoly/obj/Debug/net7.0/ref/InheritancePoly.dll

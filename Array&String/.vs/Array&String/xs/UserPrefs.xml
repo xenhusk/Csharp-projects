@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F3D61C0C-8A0D-43F0-A385-EA3EA473FC1B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Array_226String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../GreetingApp/Desuyo_David Paul/GreetingApp/GreetinsProgram.cs">
+    <Files>
+      <File FileName="Array&amp;String/Program.cs" Line="17" Column="24" />
+      <File FileName="../Basket/Basket/BasketApp.cs" Line="13" Column="1" />
+      <File FileName="../GreetingApp/Desuyo_David Paul/GreetingApp/GreetinsProgram.cs" Line="7" Column="10" />
+      <File FileName="../DataTypesApp/DataTypesApp/DataTypesProgram.cs" Line="13" Column="27" />
+      <File FileName="../ComputeAverageApp/ComputeAverageApp/ComputeAverageProgram.cs" Line="13" Column="10" />
+      <File FileName="../Calculator/Calculator/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Array&amp;String" expanded="True">
+            <Node name="Array&amp;String" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5689028E-A15C-40F0-A438-022CBE307660}|Default">
+  <MonoDevelop.Ide.ItemProperties.MidtermPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidtermPractice/EmptyClass.cs">
+    <Files>
+      <File FileName="../InheritancePoly/InheritancePoly/Program.cs" Line="60" Column="1" />
+      <File FileName="MidtermPractice/EmptyClass.cs" Line="22" Column="1" />
+      <File FileName="MidtermPractice/Program.cs" Line="102" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

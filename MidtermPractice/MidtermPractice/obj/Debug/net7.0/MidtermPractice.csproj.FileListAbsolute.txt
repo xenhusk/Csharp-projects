@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/MidtermPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/MidtermPractice.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/MidtermPractice.AssemblyInfo.cs
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/MidtermPractice.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/bin/Debug/net7.0/MidtermPractice
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/bin/Debug/net7.0/MidtermPractice.deps.json
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/bin/Debug/net7.0/MidtermPractice.runtimeconfig.json
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/bin/Debug/net7.0/MidtermPractice.dll
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/bin/Debug/net7.0/MidtermPractice.pdb
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/MidtermPractice.dll
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/refint/MidtermPractice.dll
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/MidtermPractice.pdb
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/MidtermPractice.genruntimeconfig.cache
+/Users/xenuhusk/Projects/MidtermPractice/MidtermPractice/obj/Debug/net7.0/ref/MidtermPractice.dll

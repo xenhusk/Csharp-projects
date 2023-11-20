@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/Methods/Methods/bin/Debug/net7.0/Methods
+/Users/xenuhusk/Projects/Methods/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/xenuhusk/Projects/Methods/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/xenuhusk/Projects/Methods/Methods/bin/Debug/net7.0/Methods.dll
+/Users/xenuhusk/Projects/Methods/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/Methods.dll
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/xenuhusk/Projects/Methods/Methods/obj/Debug/net7.0/ref/Methods.dll

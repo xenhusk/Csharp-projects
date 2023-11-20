@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/bin/Debug/net7.0/DataTypesApp
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/bin/Debug/net7.0/DataTypesApp.deps.json
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/bin/Debug/net7.0/DataTypesApp.runtimeconfig.json
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/bin/Debug/net7.0/DataTypesApp.dll
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/bin/Debug/net7.0/DataTypesApp.pdb
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/DataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/DataTypesApp.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/DataTypesApp.AssemblyInfo.cs
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/DataTypesApp.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/DataTypesApp.dll
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/refint/DataTypesApp.dll
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/DataTypesApp.pdb
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/DataTypesApp.genruntimeconfig.cache
+/Users/xenuhusk/Projects/DataTypesApp/DataTypesApp/obj/Debug/net7.0/ref/DataTypesApp.dll

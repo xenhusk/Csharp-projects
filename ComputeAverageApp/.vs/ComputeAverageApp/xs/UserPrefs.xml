@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C4B8193F-918D-4101-866A-C79AC1853776}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ComputeAverageApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComputeAverageApp/ComputeAverageProgram.cs">
+    <Files>
+      <File FileName="ComputeAverageApp/Program.cs" Line="22" Column="27" />
+      <File FileName="../DataTypesApp/DataTypesApp/DataTypesProgram.cs" Line="13" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComputeAverageApp" expanded="True">
+            <Node name="ComputeAverageApp" expanded="True">
+              <Node name="ComputeAverageProgram.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

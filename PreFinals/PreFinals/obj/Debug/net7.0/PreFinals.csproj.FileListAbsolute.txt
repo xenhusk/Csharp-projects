@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/PreFinals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/PreFinals.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/PreFinals.AssemblyInfo.cs
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/PreFinals.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/PreFinals/PreFinals/bin/Debug/net7.0/PreFinals
+/Users/xenuhusk/Projects/PreFinals/PreFinals/bin/Debug/net7.0/PreFinals.deps.json
+/Users/xenuhusk/Projects/PreFinals/PreFinals/bin/Debug/net7.0/PreFinals.runtimeconfig.json
+/Users/xenuhusk/Projects/PreFinals/PreFinals/bin/Debug/net7.0/PreFinals.dll
+/Users/xenuhusk/Projects/PreFinals/PreFinals/bin/Debug/net7.0/PreFinals.pdb
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/PreFinals.dll
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/refint/PreFinals.dll
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/PreFinals.pdb
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/PreFinals.genruntimeconfig.cache
+/Users/xenuhusk/Projects/PreFinals/PreFinals/obj/Debug/net7.0/ref/PreFinals.dll

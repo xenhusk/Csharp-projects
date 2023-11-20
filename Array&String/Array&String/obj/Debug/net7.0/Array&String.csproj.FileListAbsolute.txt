@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/Array&String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/Array&String.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/Array&String.AssemblyInfo.cs
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/Array&String.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/Array&String/Array&String/bin/Debug/net7.0/Array&String
+/Users/xenuhusk/Projects/Array&String/Array&String/bin/Debug/net7.0/Array&String.deps.json
+/Users/xenuhusk/Projects/Array&String/Array&String/bin/Debug/net7.0/Array&String.runtimeconfig.json
+/Users/xenuhusk/Projects/Array&String/Array&String/bin/Debug/net7.0/Array&String.dll
+/Users/xenuhusk/Projects/Array&String/Array&String/bin/Debug/net7.0/Array&String.pdb
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/Array&String.dll
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/refint/Array&String.dll
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/Array&String.pdb
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/Array&String.genruntimeconfig.cache
+/Users/xenuhusk/Projects/Array&String/Array&String/obj/Debug/net7.0/ref/Array&String.dll

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BDB6A00B-67B2-41DA-B4FB-9658F95B38E0}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StudentInfoApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentInfoApplication/frmStudentInfo.cs">
+    <Files>
+      <File FileName="../Array&amp;String/Array&amp;String/Program.cs" />
+      <File FileName="StudentInfoApplication/frmStudentInfo.cs" Line="30" Column="46" />
+      <File FileName="../Calculator/Calculator/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentInfoApplication" expanded="True">
+            <Node name="StudentInfoApplication" expanded="True">
+              <Node name="frmStudentInfo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

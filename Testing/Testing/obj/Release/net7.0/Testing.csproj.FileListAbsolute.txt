@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/Testing/Testing/bin/Release/net7.0/Testing
+/Users/xenuhusk/Projects/Testing/Testing/bin/Release/net7.0/Testing.deps.json
+/Users/xenuhusk/Projects/Testing/Testing/bin/Release/net7.0/Testing.runtimeconfig.json
+/Users/xenuhusk/Projects/Testing/Testing/bin/Release/net7.0/Testing.dll
+/Users/xenuhusk/Projects/Testing/Testing/bin/Release/net7.0/Testing.pdb
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/Testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/Testing.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/Testing.AssemblyInfo.cs
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/Testing.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/Testing.dll
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/refint/Testing.dll
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/Testing.pdb
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/Testing.genruntimeconfig.cache
+/Users/xenuhusk/Projects/Testing/Testing/obj/Release/net7.0/ref/Testing.dll

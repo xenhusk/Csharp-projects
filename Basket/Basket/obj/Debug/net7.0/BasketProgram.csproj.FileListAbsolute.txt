@@ -1,0 +1,14 @@
+/Users/xenuhusk/Projects/Basket/Basket/bin/Debug/net7.0/BasketProgram
+/Users/xenuhusk/Projects/Basket/Basket/bin/Debug/net7.0/BasketProgram.deps.json
+/Users/xenuhusk/Projects/Basket/Basket/bin/Debug/net7.0/BasketProgram.runtimeconfig.json
+/Users/xenuhusk/Projects/Basket/Basket/bin/Debug/net7.0/BasketProgram.dll
+/Users/xenuhusk/Projects/Basket/Basket/bin/Debug/net7.0/BasketProgram.pdb
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/BasketProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/BasketProgram.AssemblyInfoInputs.cache
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/BasketProgram.AssemblyInfo.cs
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/BasketProgram.csproj.CoreCompileInputs.cache
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/BasketProgram.dll
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/refint/BasketProgram.dll
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/BasketProgram.pdb
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/BasketProgram.genruntimeconfig.cache
+/Users/xenuhusk/Projects/Basket/Basket/obj/Debug/net7.0/ref/BasketProgram.dll
